@@ -13,7 +13,8 @@ To run this script, you need to follow these steps:
 #### for Windows
 1. make sure that you have installed 3.x.x `Python` version, and `pip`.
 1. execute command `pip install -r requirements.txt` in `cmd`.
-3. run `start.bat` file.
+3. run `start.bat` file and wait.
+4. after finish parsing `heads.yml` will be created.
 
 ### Change settings:
 Edit `config.ini` file, to configure parser.
