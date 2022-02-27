@@ -1,4 +1,4 @@
-import grequests, requests, yaml, os, random
+import grequests, yaml, os, random
 from bs4 import BeautifulSoup
 from configparser import ConfigParser
 config = ConfigParser()
