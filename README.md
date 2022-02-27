@@ -63,4 +63,4 @@ Edit `config.ini` file, to configure parser.
 
 1. After parsing, copy `heads.yml` file to `you_server\plugins\WanderingTrades/trades/` catalog.
 2. Use `/wt reload`command - for reload plugin settings in you server.
-3. Use `/wt summon heds ~ ~ ~` command for summon test NPC.
+3. Use `/wt summon heads ~ ~ ~` command for summon test NPC.
